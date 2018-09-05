@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536159746 source:d:\lafuente_gaston\busquedar_en_un_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+
