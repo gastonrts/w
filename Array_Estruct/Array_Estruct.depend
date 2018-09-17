@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537189670 source:d:\lafuente_gaston\array_estruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
