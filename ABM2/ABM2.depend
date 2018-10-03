@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538577807 source:d:\lafuente_gaston\abm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
